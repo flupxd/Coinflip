@@ -1,0 +1,7 @@
+name: Coinflip
+version: 1.0
+main: ${project.groupId}.${project.artifactId}
+authors: [flupxd, SIMON#1386]
+commands:
+  coinflip:
+    aliases: [cf]
